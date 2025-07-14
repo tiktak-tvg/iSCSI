@@ -17,7 +17,7 @@
 контроллерами в случае сбоев
 ```
 
-<img width="1280" height="641" alt="image" src="https://github.com/user-attachments/assets/02671494-eab8-429d-82b2-8861125a4810" />
+<img width="1280" height="641" alt="image" src="https://github.com/user-attachments/assets/a9fea41e-6756-41bf-b444-f556249632af" />
 
 Подключаемся на сервере WINDOWS 2016 по таргеру <iscsi-target-1-ip> к TATLIN.UNIFIED через iSCSI.
 
